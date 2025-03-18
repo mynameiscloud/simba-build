@@ -370,7 +370,7 @@ nav {
 				position: absolute;
 				top: 0;
 				left: 0;
-				inline-size: calc(33.2% + 2px);
+				inline-size: calc(33.333%);
 				block-size: 120px;
 				background: #D8CFCA;	
 
@@ -388,8 +388,8 @@ nav {
 			.masktr {
 				position: absolute;
 				top: 0;
-				right: calc(16.6%);
-				inline-size: calc(33.2% + 2px);
+				right: calc(16.666%);
+				inline-size: calc(33.333%);
 				block-size: 120px;
 				background: #D7B98C;	
 
@@ -407,8 +407,8 @@ nav {
 			.maskbl {
 				position: absolute;
 				bottom: 0;
-				left: 16.6%;
-				inline-size: calc(16.6% + 2px);
+				left: 16.666%;
+				inline-size: calc(16.666%);
 				block-size: 120px;
 				background: var(--maincolor);	
 			}
@@ -500,7 +500,7 @@ nav {
 	align-items: center;
 
 	.colLeft {
-		flex: 0 0 calc(33.2% - 2rem + 2px);
+		flex: 0 0 calc(33.333%);
 		padding-inline-start: 2rem;
 
 		h5 {
@@ -530,7 +530,7 @@ nav {
 	.itemService {
 		position: relative;
 		height: auto;
-		flex: 0 0 calc(33.333% - 2px);
+		flex: 0 0 calc(33.333%);
 		background: #FFF;
 		border: 1px solid #E5E5E5;
 
