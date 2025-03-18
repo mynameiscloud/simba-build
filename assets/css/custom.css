@@ -358,7 +358,7 @@ nav {
 			display: flex;
 
 			.col-grid {
-				flex: 0 0 calc(16.666% - 2px);
+				flex: 0 0 calc(16.666%);
 				border-left: 1px solid rgba(255, 255, 255, .16);
 			}
 
@@ -484,7 +484,7 @@ nav {
 			display: flex;
 		
 			.col-grid {
-				flex: 0 0 calc(16.666% - 2px);
+				flex: 0 0 calc(16.666%);
 				border-left: 1px solid #E5E5E5;
 			}
 		
@@ -666,7 +666,7 @@ nav {
 			height: 600px;
 
 			.col-grid {
-				flex: 0 0 calc(16.666% - 2px);
+				flex: 0 0 calc(16.666%);
 				border-left: 1px solid rgba(255, 255, 255, .16);
 			}
 
